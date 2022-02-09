@@ -39,6 +39,10 @@ To build the final binaries run
 yarn tauri:build
 ```
 
+### Issues
+
+If you are encountering any build errors after running `yarn serve`, delete the `yarn.lock` file and run `yarn innstall`. Enjoy the NER Annotator!
+
 ## Credits
 
 1. App Icon - <a href="https://www.flaticon.com/free-icons/ornithology" title="ornithology icons">Ornithology icons created by Freepik - Flaticon</a>
